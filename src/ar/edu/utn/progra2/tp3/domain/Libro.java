@@ -60,7 +60,7 @@ public class Libro {
         );
     }
 
-    public  Libro(String titulo, String autor, int anioPublicacion) {
+    public Libro(String titulo, String autor, int anioPublicacion) {
         this.titulo = titulo;
         this.autor = autor;
         setAnioPublicacion(anioPublicacion);
