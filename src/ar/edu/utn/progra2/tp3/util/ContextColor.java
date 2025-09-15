@@ -1,4 +1,4 @@
-package java.ar.edu.utn.progra2.tp3.util;
+package ar.edu.utn.progra2.tp3.util;
 
 public enum ContextColor {
     SUCCESS,
