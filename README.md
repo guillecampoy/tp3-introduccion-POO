@@ -24,7 +24,7 @@ Comprender los fundamentos de la **Programación Orientada a Objetos (POO)** en 
 - **Clases y Objetos:** Representación de entidades (Ej: Estudiante, Mascota, Libro, Gallina, NaveEspacial).
 - **Atributos y Métodos:** Propiedades y comportamientos.
 - **Estado e Identidad:** Cada objeto mantiene su propio estado.
-- **Encapsulamiento:** Uso de `private`, `public`, `protected` y métodos de acceso.
+- **Encapsulamiento:** Uso de `private`, `public` y métodos de acceso.
 - **Getters y Setters:** Acceso controlado a atributos privados.
 - **Reutilización de código:** Definición de clases reutilizables en múltiples contextos.
 
